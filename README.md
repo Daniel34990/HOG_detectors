@@ -1,1 +1,2 @@
 # HOG_detectors
+This project aims to replicate and explore the seminal 2005 paper "Histograms of Oriented Gradients for Human Detection" by Dalal and Triggs. The implementation focuses on understanding and reproducing the HOG feature extraction method and its application to human detection in images. Key aspects include gradient computation, descriptor generation, and testing on standard datasets. This repository is a hands-on exploration of a foundational technique in computer vision, often referenced in object detection research.
